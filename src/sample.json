@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": "1",
+    "title": "Cars",
+    "director": "tu puta madre",
+    "year": "1999",
+    "rating": "9.8"
+  },
+  {
+    "movie_id": "2",
+    "title": "Rambo",
+    "director": "leonardo dicaprio",
+    "year": "1999",
+    "rating": "1.5"
+  },
+  {
+    "movie_id": "3",
+    "title": "silencio en el hueco",
+    "director": "puto el que lo lea",
+    "year": "5000",
+    "rating": "7.8"
+  },
+  {
+    "movie_id": "4",
+    "title": "El codigo de Dagipi",
+    "director": "michael Jackson",
+    "year": "2009",
+    "rating": "9.2"
+  },
+  {
+    "movie_id": "5",
+    "title": "El bromas",
+    "director": "Ronald McDonald",
+    "year": "1963",
+    "rating": "8.8"
+  },
+  {
+    "movie_id": "6",
+    "title": "Los oscar 2021",
+    "director": "Don ramon",
+    "year": "1988",
+    "rating": "9.8"
+  }
+]
