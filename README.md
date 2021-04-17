@@ -1,27 +1,35 @@
-# RestApi-Basic Node.Js
- RestApi-Basic Node.Js
-  Conceptos basicos de RestApi hechos en Node.js 
+#  RestApi-Basic Node.Js
 
-Comenzando 🚀
-  Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+_Conceptos basicos de RestApi hechos en Node.js _
 
-Pre-requisitos 📋
-  Que cosas necesitas para instalar el software y como instalarlas
+## Comenzando 🚀
 
-Instalación 🔧
-  Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Dí cómo será ese paso
+Mira **Deployment** para conocer como desplegar el proyecto.
 
+
+### Instalación 🔧
+
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+_Dí cómo será ese paso_
+
+```
 Da un ejemplo
-Y repite
+```
 
+_Y repite_
+
+```
 hasta finalizar
-Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo.
+```
 
- Construido con 🛠️
-Menciona las herramientas que utilizaste para crear tu proyecto
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-  Express - Framework web hecho por Node.Js uno de los mas usados y mas estables.
-  morgan - dependencia,nos informa en la terminal informacion sobre la peticion,estado,verbo,url,tiempo de respuesta y mas detalles sobre x peticion.
-  node-fetch -Nos proporciona funciones para la busqueda de recursos de una url.
+
+## Construido con 🛠️
+
+* [Express](https://expressjs.com/) - Framework web hecho por Node.Js uno de los mas usados y mas estables.
+* [Morgan](https://www.npmjs.com/package/morgan) - Nos brinda informacion en la terminal sobre la peticion,estado,verbo,url,tiempo de respuesta y mas detalles sobre x peticion.
+* [Node-fetch](https://www.npmjs.com/package/node-fetch) - Nos proporciona funciones para la busqueda de recursos de una url.
